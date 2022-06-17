@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-npm build
+cd packages/app && npm build
